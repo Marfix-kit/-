@@ -1,0 +1,14 @@
+C:\Users\Дашуля\Desktop\циклы for\example02\bin\Debug\net8.0\example02.exe
+C:\Users\Дашуля\Desktop\циклы for\example02\bin\Debug\net8.0\example02.deps.json
+C:\Users\Дашуля\Desktop\циклы for\example02\bin\Debug\net8.0\example02.runtimeconfig.json
+C:\Users\Дашуля\Desktop\циклы for\example02\bin\Debug\net8.0\example02.dll
+C:\Users\Дашуля\Desktop\циклы for\example02\bin\Debug\net8.0\example02.pdb
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\example02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\example02.AssemblyInfoInputs.cache
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\example02.AssemblyInfo.cs
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\example02.csproj.CoreCompileInputs.cache
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\example02.dll
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\refint\example02.dll
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\example02.pdb
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\example02.genruntimeconfig.cache
+C:\Users\Дашуля\Desktop\циклы for\example02\obj\Debug\net8.0\ref\example02.dll
